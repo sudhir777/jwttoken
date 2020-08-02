@@ -1,0 +1,54 @@
+2020-07-19 14:33:10 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				Starting SpringSecurityJwtExampleApplication on DESKTOP-CBI7EMC with PID 11428 (started by sudhir kumar in C:\Users\sudhir kumar\Desktop\LTI\spring-security-jwt-example-master)
+2020-07-19 14:33:10 [restartedMain] DEBUG c.j.j.a.SpringSecurityJwtExampleApplication -
+				Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-07-19 14:33:10 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				No active profile set, falling back to default profiles: default
+2020-07-19 14:33:48 [restartedMain] DEBUG c.j.jwt.api.filter.JwtFilter -
+				Filter 'jwtFilter' configured for use
+2020-07-19 14:33:55 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				Started SpringSecurityJwtExampleApplication in 49.123 seconds (JVM running for 54.898)
+2020-07-19 14:33:59 [http-nio-9192-exec-2] DEBUG c.j.j.a.controller.WelcomeController -
+				Request sudhir
+2020-07-19 14:33:59 [http-nio-9192-exec-2] DEBUG c.j.j.a.controller.WelcomeController -
+				Response Welcome to javatechie !!sudhir
+2020-07-19 14:35:24 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				Starting SpringSecurityJwtExampleApplication on DESKTOP-CBI7EMC with PID 11428 (started by sudhir kumar in C:\Users\sudhir kumar\Desktop\LTI\spring-security-jwt-example-master)
+2020-07-19 14:35:24 [restartedMain] DEBUG c.j.j.a.SpringSecurityJwtExampleApplication -
+				Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-07-19 14:35:24 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				No active profile set, falling back to default profiles: default
+2020-07-19 14:35:28 [restartedMain] DEBUG c.j.jwt.api.filter.JwtFilter -
+				Filter 'jwtFilter' configured for use
+2020-07-19 14:35:30 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				Started SpringSecurityJwtExampleApplication in 5.951 seconds (JVM running for 148.932)
+2020-07-19 14:35:43 [http-nio-9192-exec-2] DEBUG c.j.j.a.controller.WelcomeController -
+				Request sudhir
+2020-07-19 14:35:43 [http-nio-9192-exec-2] DEBUG c.j.j.a.controller.WelcomeController -
+				Response Welcome to javatechie !!sudhir
+2020-07-19 14:36:03 [http-nio-9192-exec-6] DEBUG c.j.j.a.controller.WelcomeController -
+				Request test
+2020-07-19 17:50:42 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				Starting SpringSecurityJwtExampleApplication on DESKTOP-CBI7EMC with PID 5344 (started by sudhir kumar in C:\Users\sudhir kumar\Desktop\LTI\spring-security-jwt-example-master)
+2020-07-19 17:50:42 [restartedMain] DEBUG c.j.j.a.SpringSecurityJwtExampleApplication -
+				Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-07-19 17:50:42 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				No active profile set, falling back to default profiles: default
+2020-07-19 17:51:13 [restartedMain] DEBUG c.j.jwt.api.filter.JwtFilter -
+				Filter 'jwtFilter' configured for use
+2020-07-19 17:52:51 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				Starting SpringSecurityJwtExampleApplication on DESKTOP-CBI7EMC with PID 1960 (started by sudhir kumar in C:\Users\sudhir kumar\Desktop\LTI\spring-security-jwt-example-master)
+2020-07-19 17:52:51 [restartedMain] DEBUG c.j.j.a.SpringSecurityJwtExampleApplication -
+				Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-07-19 17:52:51 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				No active profile set, falling back to default profiles: default
+2020-07-19 17:53:17 [restartedMain] DEBUG c.j.jwt.api.filter.JwtFilter -
+				Filter 'jwtFilter' configured for use
+2020-07-19 17:54:17 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				Starting SpringSecurityJwtExampleApplication on DESKTOP-CBI7EMC with PID 12168 (started by sudhir kumar in C:\Users\sudhir kumar\Desktop\LTI\spring-security-jwt-example-master)
+2020-07-19 17:54:17 [restartedMain] DEBUG c.j.j.a.SpringSecurityJwtExampleApplication -
+				Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-07-19 17:54:17 [restartedMain] INFO  c.j.j.a.SpringSecurityJwtExampleApplication -
+				No active profile set, falling back to default profiles: default
+2020-07-19 17:54:40 [restartedMain] DEBUG c.j.jwt.api.filter.JwtFilter -
+				Filter 'jwtFilter' configured for use

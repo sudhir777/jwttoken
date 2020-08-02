@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "rest.client",
+      "type": "com.javatechie.jwt.api.rest.config.ClientPropeties",
+      "sourceType": "com.javatechie.jwt.api.rest.config.ClientPropeties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "rest.client.connect-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.javatechie.jwt.api.rest.config.ClientPropeties"
+    },
+    {
+      "name": "rest.client.password",
+      "type": "java.lang.Character[]",
+      "sourceType": "com.javatechie.jwt.api.rest.config.ClientPropeties"
+    },
+    {
+      "name": "rest.client.read-timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.javatechie.jwt.api.rest.config.ClientPropeties"
+    },
+    {
+      "name": "rest.client.service-url",
+      "type": "java.lang.String",
+      "sourceType": "com.javatechie.jwt.api.rest.config.ClientPropeties"
+    },
+    {
+      "name": "rest.client.username",
+      "type": "java.lang.String",
+      "sourceType": "com.javatechie.jwt.api.rest.config.ClientPropeties"
+    }
+  ],
+  "hints": []
+}
